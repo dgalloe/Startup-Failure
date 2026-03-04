@@ -1,0 +1,17 @@
+# Data Manipulation
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Statistical Analysis
+statsmodels
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook Environment
+jupyter
